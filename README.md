@@ -34,7 +34,7 @@
 
 **Шаг 6.** Проверьте через playbook на идемпотентность.
 
-![answer1](https://github.com/Vasiliy-Ser/creating_your_own_modules_ansivle_17.6/blob/fd26baeba22825631f7ca09d1f4eda2d5edf562e/png/7.png)
+![answer2](https://github.com/Vasiliy-Ser/creating_your_own_modules_ansivle_17.6/blob/fd26baeba22825631f7ca09d1f4eda2d5edf562e/png/8.png)
 
 **Шаг 7.** Выйдите из виртуального окружения.
 
@@ -62,11 +62,11 @@
 
 **Шаг 15.** Установите collection из локального архива: `ansible-galaxy collection install <archivename>.tar.gz`.
 
-![answer1](https://github.com/Vasiliy-Ser/creating_your_own_modules_ansivle_17.6/blob/fd26baeba22825631f7ca09d1f4eda2d5edf562e/png/12.png)
+![answer3](https://github.com/Vasiliy-Ser/creating_your_own_modules_ansivle_17.6/blob/fd26baeba22825631f7ca09d1f4eda2d5edf562e/png/12.png)
 
 **Шаг 16.** Запустите playbook, убедитесь, что он работает.
 
-![answer1](https://github.com/Vasiliy-Ser/creating_your_own_modules_ansivle_17.6/blob/fd26baeba22825631f7ca09d1f4eda2d5edf562e/png/16.png)
+![answer4](https://github.com/Vasiliy-Ser/creating_your_own_modules_ansivle_17.6/blob/fd26baeba22825631f7ca09d1f4eda2d5edf562e/png/11.png)
 
 **Шаг 17.** В ответ необходимо прислать ссылки на collection и tar.gz архив, а также скриншоты выполнения пунктов 4, 6, 15 и 16.
 
