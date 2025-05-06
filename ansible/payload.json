@@ -1,0 +1,5 @@
+{
+    "path": "/tmp/test_file.json",
+    "content": "Test content",
+    "mode": "0644"
+}

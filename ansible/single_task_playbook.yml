@@ -1,0 +1,9 @@
+---
+- name: Test my own module
+  hosts: localhost
+  tasks:
+    - name: Create a file
+      my_own_module:
+        path: "/tmp/test_file.json"
+        content: "Test content"
+        mode: '0644' 

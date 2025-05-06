@@ -1,0 +1,4 @@
+---
+file_path: "/tmp/test_file.json"
+file_content: "Test content"
+file_mode: "0644"
